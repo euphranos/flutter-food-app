@@ -2,6 +2,9 @@
 
 Welcome to the **Food Delivery App UI Kit** built with Flutter! 🎉 This project is completely **free** and **open-source** — perfect for building your own food delivery apps or using it as a base for further development! 🚀
 
+Credit : The UI of this project was inspired by design created in Figma : 
+https://www.figma.com/community/file/1376935318753593622/create-food-ordering-app-ui-design-minimal-modern-and-clean-design
+
 ## ✨ Features
 
 - 🌟 **Splash Screen**: A beautiful introduction screen.
