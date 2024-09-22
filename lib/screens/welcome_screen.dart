@@ -122,6 +122,7 @@ class WelcomeScreen extends StatelessWidget {
           const TitleText(
             text: "Welcome to\nFoodies",
             color: secondaryTextColor,
+            isCentered: true,
             fontSize: 45,
           ),
           InfoText(
